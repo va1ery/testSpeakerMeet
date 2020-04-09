@@ -9,8 +9,7 @@
                 [Fact]
                 public void ItExists()
                 {
-                var controller = new SpeakerController()
-                //;
+                var controller = new SpeakerController();
                 }
             }
         }
